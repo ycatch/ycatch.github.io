@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-12-23 22:39:26 +0900
 categories: jekyll update
